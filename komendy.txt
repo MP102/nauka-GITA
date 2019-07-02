@@ -1,0 +1,24 @@
+autoprefixer
+
+
+przyk³ad:
+
+autoprefixer -o style.prefixed.css style.css	
+
+----------------------------------------------------------------------------------------		
+
+nu-html-checker 
+
+Usage: cli [options] <files/urls ...>
+
+  Options:
+
+    -h, --help                   output usage information
+    -V, --version                output the version number
+    -f, --formatter <formatter>  Choose the formatter to use. (stylish, json)
+
+
+przyk³ad:
+
+index.html -V
+index.html -f json
